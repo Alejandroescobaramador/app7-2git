@@ -5,14 +5,14 @@
   id = "com.phonegap.app7"
   version = "1.0.0">
   
-  <name> app7-mostrar aplicaciones</name>
+  <name> app7 Mostrar Aplicaciones</name>
   
   <description>
-   Aplicacion que muestra diferentes aplicaciones
+   Aplicacion que Muestra algunas aplicaciones
    </description>
    
-   <author href="https://build.phonegap.com" email="cb16.delacruzespinosa.miguela@gmail.com">
-    De La Cruz Espinosa Miguel Angel
+   <author href="https://build.phonegap.com" email="cb16.Escobar.Amador.Alejandro@gmail.com">
+   Escobar Amador Alejandro
 	</author>
 	<!--que onda con esto jajaja-->
 	<!--Personaliza la aplicacion y plataforma -->
